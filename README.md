@@ -1,5 +1,6 @@
 # Random1.0
 A repo to do anything. Make anything. 
+
 Rules: 
-No removing "features" or Ideas.
-No illegal content
+  1. No removing "features" or Ideas.
+  2. No illegal content
