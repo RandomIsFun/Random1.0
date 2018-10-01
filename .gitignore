@@ -1,0 +1,14 @@
+# Maven Stuff
+target
+*.jar
+
+# VSCode Stuff
+.settings
+.vscode
+.factorypath
+.classpath
+.project
+
+# IntelliJ Stuff
+.idea
+*.iml
