@@ -5,4 +5,4 @@ Rules:
   1. No removing "features" or Ideas.
   2. No illegal content
   3. Language is Java or any JVM based language!
-  4. Every PR must contain "Andrew" in the commits
+  4. Every PR must contain real code
