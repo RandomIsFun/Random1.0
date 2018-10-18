@@ -12,3 +12,4 @@ target
 # IntelliJ Stuff
 .idea
 *.iml
+/bin/
