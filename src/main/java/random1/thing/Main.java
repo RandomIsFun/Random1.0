@@ -24,7 +24,12 @@ public class Main {
         jda = new JDABuilder().setToken(token).setGame(Game.playing("Random1.0")).build();
 
         for(Guild g :jda.getGuilds()){
-            g.getDefaultChannel().sendMessage("Started!").queue();
+            try {
+                g.getDefaultChannel().sendMessage("Started!").queue();
+            }
+            catch(NullPointerException e){
+                e.printStackTrace();
+            }
         }
     }
 
