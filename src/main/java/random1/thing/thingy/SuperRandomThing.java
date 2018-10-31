@@ -11,7 +11,6 @@ public class SuperRandomThing {
     public static void main(String[] args) {
         if (args.length == 0) {
             System.err.println("foo bar"); // todo create a better message
-            return;
         }
 
         float sum = 0;
